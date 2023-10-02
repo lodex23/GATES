@@ -4,6 +4,7 @@ def main():
     print(lijst[2])
 
     # van de zoveelste waarde uit de lijst een character of meerdere pakken
+    print(lijst[2][2])
     print(lijst[2][0:2])
 
 
